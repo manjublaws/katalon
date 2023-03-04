@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sign Out</name>
+   <tag></tag>
+   <elementGuidId>cebc11f6-5d00-4319-b1b3-e3f41d3fca9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.Button---btn.Button---default_direction.Button---secondary.Button---small.appian-context-last-in-list.appian-context-ux-mouse-focus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>aad51dbe-9361-41ad-95ef-fb4b2b863fae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ce10b0d8-0429-40ad-97c8-fc834254ef6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Button---btn Button---default_direction Button---secondary Button---small appian-context-last-in-list appian-context-ux-mouse-focus</value>
+      <webElementGuid>b2872b76-3b93-4dcc-bbd9-0d34d78295aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Out</value>
+      <webElementGuid>f1b9004d-b0a6-4fe1-9291-d864489fc677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;4e5018144c0a476bb5ba3996bb7978c4_header_site_profile&quot;)/div[@class=&quot;UserProfileLayout---current_user_menu_wrapper&quot;]/div[@class=&quot;UserProfileLayout---current_user_menu&quot;]/div[@class=&quot;UserProfileLayout---current_user_actions&quot;]/div[@class=&quot;ButtonLayout2---button_layout ButtonLayout2---center ButtonLayout2---margin_below_none ButtonLayout2---margin_above_none&quot;]/div[@class=&quot;Button---btn_wrapper Button---default_direction appian-context-last-in-list Button---in_align_center Button---pointer_events&quot;]/button[@class=&quot;Button---btn Button---default_direction Button---secondary Button---small appian-context-last-in-list appian-context-ux-mouse-focus&quot;]</value>
+      <webElementGuid>78c0ad5e-33b1-4621-951d-866d896f99e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>fdae90d2-5d6d-489b-9cb8-b82478bf0be8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='4e5018144c0a476bb5ba3996bb7978c4_header_site_profile']/div/div/div[2]/div/div[3]/button</value>
+      <webElementGuid>8b9fc2ab-5e0d-4be8-9316-a4b2674c2368</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::button[1]</value>
+      <webElementGuid>fa156316-f4a8-4c83-b898-062a6773b937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::button[2]</value>
+      <webElementGuid>7adefa9b-c78e-4ec6-890a-701ccc2f2b1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage filters'])[1]/preceding::button[1]</value>
+      <webElementGuid>b7ced2d0-6b50-4bc5-8922-f65f7951b189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refresh'])[1]/preceding::button[2]</value>
+      <webElementGuid>d6ef1d27-fce4-48d6-b736-e3774fcf702c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign Out']/parent::*</value>
+      <webElementGuid>a2ef6a45-9c74-4b9d-8ef6-7dff2d71762c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>f2e8918d-fa77-48d5-8b3a-f77477deb189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Sign Out' or . = 'Sign Out')]</value>
+      <webElementGuid>73a97eaa-94fa-4c6a-b1bf-b09fc43ead79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
