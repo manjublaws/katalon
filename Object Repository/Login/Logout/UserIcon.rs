@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span</name>
+   <name>UserIcon</name>
    <tag></tag>
    <elementGuidId>e6183db3-e9cb-4190-8060-3293575ddf1c</elementGuidId>
    <selectorCollection>

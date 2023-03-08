@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>MSSSTage</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>1c0f604e-7dc3-4065-a67e-265abd658ac6</dataFileGUID>
+   <dataSourceUrl>C:\Users\q1011333\Documents\MSS MARCH Release 2023.1\Katalon_Studio_PE_Windows_64-8.5.5\MSSTestData\MSSDataStage.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Login</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

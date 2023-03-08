@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sigout the applications</description>
+   <name>LogOut</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c89e0496-468f-413f-85fd-3fe4bf7a6cb2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>21b9c449-2638-43c0-97d4-802e9876ab4f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>21b9c449-2638-43c0-97d4-802e9876ab4f</id>
+      <masked>false</masked>
+      <name>ForgotText</name>
+   </variable>
+</TestCaseEntity>

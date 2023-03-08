@@ -17,19 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.maximizeWindow()
-
-WebUI.navigateToUrl(GlobalVariable.URL)
-
-WebUI.setText(findTestObject('Object Repository/Login/Page_IQVIA TEST/input_Username_un'), UserName)
-
-WebUI.setText(findTestObject('Object Repository/Login/Page_IQVIA TEST/input_Password_pw'), Password)
-
-WebUI.click(findTestObject('Object Repository/Login/Page_IQVIA TEST/input_Forgot your password_btn primary'))
-
-WebUI.click(findTestObject('Object Repository/Login/Page_My Dashboard - User Dashboard/button_User DashboardNavigation'))
+WebUI.click(findTestObject('Login/Logout/UserIcon'))
 
 WebUI.takeScreenshot()
+
+WebUI.click(findTestObject('Login/Logout/Sign Out'))
+
+WebUI.verifyTextPresent(ForgotText, false)
+
+WebUI.closeBrowser()
 

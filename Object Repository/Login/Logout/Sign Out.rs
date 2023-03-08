@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Sign Out</name>
+   <name>Sign Out</name>
    <tag></tag>
    <elementGuidId>cebc11f6-5d00-4319-b1b3-e3f41d3fca9a</elementGuidId>
    <selectorCollection>
