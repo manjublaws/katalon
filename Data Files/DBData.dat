@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>DBData</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>206239ca-5f43-4f8a-b7a8-27b9c3f7b62c</dataFileGUID>
+   <dataSourceUrl>jdbc:oracle:thin:@moruodb137vd.quintiles.net:1521:GDMDRO1Q</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName></driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password>R0RNUF9MT18yMzQ1</password>
+   <query>select * from GDMPMDR_OL.DR_MSS_APP_AUDIT where CSTM_PRJCT_ID_FK=2778 and ACTION In('Initial Query','Initial Query Sent')</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>GDMPMDR_OL</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

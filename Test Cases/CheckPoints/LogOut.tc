@@ -4,7 +4,7 @@
    <name>LogOut</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>c89e0496-468f-413f-85fd-3fe4bf7a6cb2</testCaseGuid>
+   <testCaseGuid>8ccd9a32-9d77-4bfb-a737-1f865c279002</testCaseGuid>
    <testDataLinks>
       <combinationType>ONE</combinationType>
       <id>33412360-e468-4d23-b00c-5b34789fefd8</id>
@@ -18,12 +18,12 @@
       <testDataLinkId>33412360-e468-4d23-b00c-5b34789fefd8</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>ForgotText</value>
-      <variableId>21b9c449-2638-43c0-97d4-802e9876ab4f</variableId>
+      <variableId>de00dfce-369c-449e-b970-d5d0c3941fd2</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>21b9c449-2638-43c0-97d4-802e9876ab4f</id>
+      <id>de00dfce-369c-449e-b970-d5d0c3941fd2</id>
       <masked>false</masked>
       <name>ForgotText</name>
    </variable>

@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login</name>
+   <name>Login Parameter</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ba2413a1-a111-4918-98c1-e682edc600df</testCaseGuid>
+   <testCaseGuid>8f90dbcb-a2c1-450f-826e-39b4c818f298</testCaseGuid>
    <testDataLinks>
       <combinationType>ONE</combinationType>
-      <id>131c6433-fa96-49e5-909d-0c021abf572c</id>
+      <id>b0fe658d-dcdb-422d-b3da-176d3115b07a</id>
       <iterationEntity>
          <iterationType>ALL</iterationType>
          <value></value>
       </iterationEntity>
-      <testDataId>Data Files/MSSData</testDataId>
+      <testDataId>Data Files/MSSSTage</testDataId>
    </testDataLinks>
    <variableLinks>
       <testDataLinkId>131c6433-fa96-49e5-909d-0c021abf572c</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>URL</value>
-      <variableId>da95805f-f448-4817-b9a6-472dcb169f1f</variableId>
+      <variableId>4534bfd4-0de2-4f08-8ddd-4195bd095be1</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId>131c6433-fa96-49e5-909d-0c021abf572c</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>UserName</value>
-      <variableId>3d8ea049-0864-40a0-8484-b5cd0fc68908</variableId>
+      <variableId>bc1aaed0-c779-4049-8e1a-081072fe40bd</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId>131c6433-fa96-49e5-909d-0c021abf572c</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>Password</value>
-      <variableId>9ef0ad54-6ded-4bb6-b422-d8e97f1f34b4</variableId>
+      <variableId>8f2ba350-d677-4081-9b74-6fa0a6acf348</variableId>
    </variableLinks>
    <variable>
       <defaultValue>GlobalVariable.URL</defaultValue>
       <description></description>
-      <id>da95805f-f448-4817-b9a6-472dcb169f1f</id>
+      <id>4534bfd4-0de2-4f08-8ddd-4195bd095be1</id>
       <masked>false</masked>
       <name>URL</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>3d8ea049-0864-40a0-8484-b5cd0fc68908</id>
+      <id>bc1aaed0-c779-4049-8e1a-081072fe40bd</id>
       <masked>false</masked>
       <name>UserName</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>9ef0ad54-6ded-4bb6-b422-d8e97f1f34b4</id>
+      <id>8f2ba350-d677-4081-9b74-6fa0a6acf348</id>
       <masked>false</masked>
       <name>Password</name>
    </variable>

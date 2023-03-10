@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>UploadbtnDrop file here</name>
+   <tag></tag>
+   <elementGuidId>98993538-3568-44aa-a6f2-13e6c263877a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.Button---btn.Button---default_direction.Button---secondary.Button---small.Button---minimize_width.appian-context-ux-mouse-focus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8da8edbd-160c-42d0-93f1-d805f0cd39f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a81c6b32-cf19-401c-9096-a594e4595264</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Button---btn Button---default_direction Button---secondary Button---small Button---minimize_width appian-context-ux-mouse-focus</value>
+      <webElementGuid>2f4d6787-c946-4fbc-8dde-a056f3515e18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>5271e562035d5b7a9c80d05670c38896 5271e562035d5b7a9c80d05670c38896-instructions</value>
+      <webElementGuid>7f1fd7e3-8981-4d4e-a9fe-9f99bfb71cde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UploadDrop file here</value>
+      <webElementGuid>cff5aea2-9e42-4617-87fb-f2c6abfb71ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sitesBody&quot;)/div[1]/div[@class=&quot;ContentLayout---content_layout&quot;]/div[1]/div[@class=&quot;ColumnArrayLayout---column_layout ColumnArrayLayout---standard_spacing appian-context-last-in-list&quot;]/div[@class=&quot;ColumnLayout---column ColumnLayout---column_padding_standard ColumnLayout---align_start ColumnLayout---top ColumnLayout---width_auto ColumnLayout---stack_when_phone appian-context-last-in-list&quot;]/div[@class=&quot;SectionLayout2---sectionLayout SectionLayout2---margin_above_none&quot;]/div[@class=&quot;SectionLayout2---section_contents SectionLayout2---margin_below_standard&quot;]/div[@class=&quot;ColumnArrayLayout---column_layout ColumnArrayLayout---standard_spacing appian-context-last-in-list&quot;]/div[@class=&quot;ColumnLayout---column ColumnLayout---column_padding_standard ColumnLayout---align_start ColumnLayout---top ColumnLayout---width_auto ColumnLayout---stack_when_phone appian-context-last-in-list&quot;]/div[@class=&quot;MultiColumnLayout---column_layout MultiColumnLayout---margin_above_none MultiColumnLayout---stack_when_phone appian-context-last-in-list&quot;]/div[@class=&quot;ColumnLayout---column ColumnLayout---column_padding_standard ColumnLayout---align_start ColumnLayout---top ColumnLayout---width_auto ColumnLayout---stack_when_phone&quot;]/div[@class=&quot;FieldLayout---field_layout FieldLayout---margin_below_none FieldLayout---margin_above_none appian-context-last-in-list&quot;]/div[@class=&quot;FieldLayout---input_below&quot;]/div[@class=&quot;MultipleFileUploadWidget---uploads_wrapper MultipleFileUploadWidget---drag_drop_zone_wrapper&quot;]/div[@class=&quot;Button---btn_wrapper Button---minimize_width Button---default_direction Button---in_align_start Button---pointer_events&quot;]/button[@class=&quot;Button---btn Button---default_direction Button---secondary Button---small Button---minimize_width appian-context-ux-mouse-focus&quot;]</value>
+      <webElementGuid>3e58db3a-227a-4006-9dab-72f5093d8e1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>c391320c-2f8d-4229-b8c1-a202933ccaae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sitesBody']/div/div/div/div[2]/div/div/div/div/div/div[2]/div/div/div[2]/div/div/button</value>
+      <webElementGuid>268cf8d5-f935-4d34-badf-18d302726d79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select File To Upload'])[1]/following::button[1]</value>
+      <webElementGuid>b72dbf64-4d51-4599-99b0-662d9b777277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Future Step'])[3]/following::button[1]</value>
+      <webElementGuid>2ae73ada-82d7-4770-871f-6a8d8b329ebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drop file here'])[2]/preceding::button[1]</value>
+      <webElementGuid>0ad93e3a-9433-4235-b0e6-cc3dd6adbe6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Upload']/parent::*</value>
+      <webElementGuid>efc67ceb-c0a6-4bfc-a782-cc74bb736c0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button</value>
+      <webElementGuid>ca798d38-ae91-4bd6-832b-2afbdaea32f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'UploadDrop file here' or . = 'UploadDrop file here')]</value>
+      <webElementGuid>64a0108f-0406-466c-9942-405e9b861824</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

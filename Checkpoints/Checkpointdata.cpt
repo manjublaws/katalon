@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpointdata</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/MSSData</source-url>
+   </source-info>
+   <taken-date>2023-03-10T14:57:13.084</taken-date>
+   <column-names>
+      <column-name>URL</column-name>
+      <column-name>UserName</column-name>
+      <column-name>Password</column-name>
+      <column-name>LoggedUser</column-name>
+      <column-name>Protocol</column-name>
+      <column-name>ForgotText</column-name>
+      <column-name>MSS</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "https://quintilestest.appiancloud.com/suite/?signin\u003dnative",
+      "checked": false
+    },
+    {
+      "value": "test9",
+      "checked": false
+    },
+    {
+      "value": "Appian123",
+      "checked": false
+    },
+    {
+      "value": "test name9",
+      "checked": false
+    },
+    {
+      "value": "H8O-US-BOO4",
+      "checked": false
+    },
+    {
+      "value": "Forgot your password?",
+      "checked": false
+    },
+    {
+      "value": "Medical and Scientific Services",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

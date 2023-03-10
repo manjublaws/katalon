@@ -4,8 +4,8 @@
    <name>MYSuite</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <mailRecipient></mailRecipient>
-   <numberOfRerun>3</numberOfRerun>
+   <mailRecipient>manjubl.aws@gmail.com;</mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
@@ -17,7 +17,7 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/IQVIA_MSS/Login</testCaseId>
       <testDataLink>
-         <combinationType>ONE</combinationType>
+         <combinationType>MANY</combinationType>
          <id>dcc889d1-146b-4550-a689-1e2569d647c7</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
@@ -27,9 +27,9 @@
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>dcc889d1-146b-4550-a689-1e2569d647c7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>URL</value>
          <variableId>da95805f-f448-4817-b9a6-472dcb169f1f</variableId>
       </variableLink>
       <variableLink>
@@ -46,13 +46,13 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>2e4d0337-fb13-4774-be8e-08bf84d104bc</guid>
+      <guid>fb51d6b4-7a9a-43c7-b45d-b281175757ea</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/IQVIA_MSS/LogOut</testCaseId>
+      <testCaseId>Test Cases/IQVIA_MSS/Issue navigator</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>6ebcfaab-0910-47ec-9bc2-7e382de8df0f</id>
+         <id>b747f92e-10c6-4b88-a75b-9d0a3c92d9d0</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -61,7 +61,35 @@
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>6ebcfaab-0910-47ec-9bc2-7e382de8df0f</testDataLinkId>
+         <testDataLinkId>b747f92e-10c6-4b88-a75b-9d0a3c92d9d0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Protocol</value>
+         <variableId>3e30d21d-9da6-45d4-8fac-097aaac7dcbe</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b747f92e-10c6-4b88-a75b-9d0a3c92d9d0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>MSS</value>
+         <variableId>7fb2b483-4f7d-474d-997e-8a1486550c29</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>579ded52-1f0c-405c-855d-951ab622ea07</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/IQVIA_MSS/LogOut</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9b4694a1-be5e-4ced-bf6e-a1007a83ceb8</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/MSSData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>9b4694a1-be5e-4ced-bf6e-a1007a83ceb8</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>ForgotText</value>
          <variableId>21b9c449-2638-43c0-97d4-802e9876ab4f</variableId>

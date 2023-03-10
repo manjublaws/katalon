@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Issue navigator</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1fc226b-2bcb-409b-a306-a226be3eba30</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>ba48f078-e6b1-4228-8823-381ca196bea5</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/MSSSTage</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>ba48f078-e6b1-4228-8823-381ca196bea5</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Protocol</value>
+      <variableId>a8bce4f8-a7e1-42b1-a131-28b2d8021d20</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>ba48f078-e6b1-4228-8823-381ca196bea5</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>MSS</value>
+      <variableId>1019f73b-716e-443a-b611-74af35345290</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a8bce4f8-a7e1-42b1-a131-28b2d8021d20</id>
+      <masked>false</masked>
+      <name>Protocol</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1019f73b-716e-443a-b611-74af35345290</id>
+      <masked>false</masked>
+      <name>MSS</name>
+   </variable>
+</TestCaseEntity>

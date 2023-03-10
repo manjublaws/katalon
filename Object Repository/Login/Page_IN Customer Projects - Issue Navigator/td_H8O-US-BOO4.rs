@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_H8O-US-BOO4</name>
+   <tag></tag>
+   <elementGuidId>a089ad42-e048-4170-bb77-f87a0e39ef42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sitesBody']/div/div/div/div[2]/div/div[2]/div/table/tbody/tr[2]/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>7bb66922-a42a-46f2-b339-1d4d3212707c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>H8O-US-BOO4</value>
+      <webElementGuid>f0572b55-240c-4347-a880-7e791d6b5241</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sitesBody&quot;)/div[1]/div[@class=&quot;ContentLayout---content_layout&quot;]/div[@class=&quot;FieldLayout---field_layout FieldLayout---margin_below_none FieldLayout---margin_above_none appian-context-last-in-list&quot;]/div[@class=&quot;FieldLayout---input_below&quot;]/div[@class=&quot;ContentLayout---content_layout ContentLayout---flush&quot;]/div[2]/div[@class=&quot;PagingGridLayout---scrollable_content&quot;]/table[@class=&quot;PagingGridLayout---table PagingGridLayout---scrollable PagingGridLayout---striped&quot;]/tbody[1]/tr[2]/td[1]</value>
+      <webElementGuid>7bc995da-5878-4564-afd9-d3bf2278aa1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sitesBody']/div/div/div/div[2]/div/div[2]/div/table/tbody/tr[2]/td</value>
+      <webElementGuid>0ef87960-8bd6-4172-a477-d978068c6d45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='H8O-MC-GWBQ'])[1]/following::td[5]</value>
+      <webElementGuid>67796489-b959-4b2c-93e1-af509eaa9d87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td</value>
+      <webElementGuid>4e706443-d5bf-4679-b2c4-5f0bbd215287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'H8O-US-BOO4' or . = 'H8O-US-BOO4')]</value>
+      <webElementGuid>b7294556-6713-4409-8797-b1bfc0db172c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

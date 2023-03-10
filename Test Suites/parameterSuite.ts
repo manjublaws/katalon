@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>parameterSuite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>1649273e-434a-40af-a9f8-e2b068c762e3</testSuiteGuid>
+   <testCaseLink>
+      <guid>c0663c18-72f2-4385-8d17-bed48139f74c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/IQVIA_MSS/Login Parameter</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>4eb6e20a-6ffe-4dcd-a163-663f57eb53d1</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/MSSSTage</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>4eb6e20a-6ffe-4dcd-a163-663f57eb53d1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>URL</value>
+         <variableId>4534bfd4-0de2-4f08-8ddd-4195bd095be1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4eb6e20a-6ffe-4dcd-a163-663f57eb53d1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UserName</value>
+         <variableId>bc1aaed0-c779-4049-8e1a-081072fe40bd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4eb6e20a-6ffe-4dcd-a163-663f57eb53d1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>8f2ba350-d677-4081-9b74-6fa0a6acf348</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
