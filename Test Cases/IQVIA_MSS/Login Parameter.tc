@@ -7,27 +7,27 @@
    <testCaseGuid>8f90dbcb-a2c1-450f-826e-39b4c818f298</testCaseGuid>
    <testDataLinks>
       <combinationType>ONE</combinationType>
-      <id>b0fe658d-dcdb-422d-b3da-176d3115b07a</id>
+      <id>3159feb1-c04f-4f03-8b87-289e56c81d85</id>
       <iterationEntity>
          <iterationType>ALL</iterationType>
          <value></value>
       </iterationEntity>
-      <testDataId>Data Files/MSSSTage</testDataId>
+      <testDataId>Data Files/New Test Data</testDataId>
    </testDataLinks>
    <variableLinks>
-      <testDataLinkId>131c6433-fa96-49e5-909d-0c021abf572c</testDataLinkId>
+      <testDataLinkId>3159feb1-c04f-4f03-8b87-289e56c81d85</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>URL</value>
       <variableId>4534bfd4-0de2-4f08-8ddd-4195bd095be1</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>131c6433-fa96-49e5-909d-0c021abf572c</testDataLinkId>
+      <testDataLinkId>3159feb1-c04f-4f03-8b87-289e56c81d85</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>UserName</value>
       <variableId>bc1aaed0-c779-4049-8e1a-081072fe40bd</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>131c6433-fa96-49e5-909d-0c021abf572c</testDataLinkId>
+      <testDataLinkId>3159feb1-c04f-4f03-8b87-289e56c81d85</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>Password</value>
       <variableId>8f2ba350-d677-4081-9b74-6fa0a6acf348</variableId>

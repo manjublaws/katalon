@@ -18,28 +18,28 @@
       <testCaseId>Test Cases/IQVIA_MSS/Login Parameter</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>4eb6e20a-6ffe-4dcd-a163-663f57eb53d1</id>
+         <id>66537ae0-691b-455f-8c5b-5cbdda890586</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/MSSSTage</testDataId>
+         <testDataId>Data Files/New Test Data</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>4eb6e20a-6ffe-4dcd-a163-663f57eb53d1</testDataLinkId>
+         <testDataLinkId>66537ae0-691b-455f-8c5b-5cbdda890586</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>URL</value>
          <variableId>4534bfd4-0de2-4f08-8ddd-4195bd095be1</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>4eb6e20a-6ffe-4dcd-a163-663f57eb53d1</testDataLinkId>
+         <testDataLinkId>66537ae0-691b-455f-8c5b-5cbdda890586</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>UserName</value>
          <variableId>bc1aaed0-c779-4049-8e1a-081072fe40bd</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>4eb6e20a-6ffe-4dcd-a163-663f57eb53d1</testDataLinkId>
+         <testDataLinkId>66537ae0-691b-455f-8c5b-5cbdda890586</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>Password</value>
          <variableId>8f2ba350-d677-4081-9b74-6fa0a6acf348</variableId>

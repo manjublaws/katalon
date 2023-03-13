@@ -23,6 +23,9 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl(GlobalVariable.URL)
 
+
+
+
 WebUI.setText(findTestObject('Object Repository/Login/Page_IQVIA TEST/input_Username_un'), UserName)
 
 WebUI.setText(findTestObject('Object Repository/Login/Page_IQVIA TEST/input_Password_pw'), Password)
@@ -32,4 +35,6 @@ WebUI.click(findTestObject('Object Repository/Login/Page_IQVIA TEST/input_Forgot
 WebUI.click(findTestObject('Object Repository/Login/Page_My Dashboard - User Dashboard/button_User DashboardNavigation'))
 
 WebUI.takeScreenshot()
+
+
 
